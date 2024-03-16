@@ -1,7 +1,7 @@
 
 hello git 
 this is just a try i will have a change
-
+hot-fix
 this is just a try
 this is just a try
 this is just a try
@@ -10,4 +10,5 @@ this is just a try
 this is just a try
 this is just a try
 this is just a try
-this is the second try 
+this is the second try
+this is just a hot-fix
